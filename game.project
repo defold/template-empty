@@ -1,3 +1,6 @@
 [bootstrap]
 main_collection = /main/main.collectionc
 
+[script]
+shared_state = 1
+
